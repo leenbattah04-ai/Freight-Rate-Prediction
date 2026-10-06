@@ -1,0 +1,4 @@
+catboost_info/
+.vscode/
+__pycache__/
+*.pyc
