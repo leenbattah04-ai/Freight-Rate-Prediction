@@ -2,3 +2,4 @@ catboost_info/
 .vscode/
 __pycache__/
 *.pyc
+Freight_Rate_Prediction_Report.pdf
